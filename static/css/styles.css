@@ -206,6 +206,10 @@ body {
     float: left;
 }
 
+.footer a 2 {
+    float: right;
+}
+
 /* Gallery Tab */
 
 .gal-row > .gal-column {
