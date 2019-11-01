@@ -13,7 +13,8 @@ body {
 
 .head-container {
     padding: 90px 20px;
-    background-image: url('https://storage.needpix.com/rsynced_images/stone-wall-texture.jpg');
+    background-image: url('../images/20170609_172239.jpg');
+    background-size: cover;
 }
 
 .header-container {
@@ -413,6 +414,11 @@ img.hover-shadow {
 
 .call span a {
     text-decoration: none;
+}
+
+.service-area {
+    text-align: center;
+    font-size: 20px;
 }
 
 .form-group {
